@@ -1,6 +1,9 @@
+# links de referência utilizados
+https://fidev.io/tickets-challenge-parallax/
+
 # parallax_app
 
-A new Flutter application.
+App em Flutter com uma lista em parallax
 
 ## Getting Started
 
