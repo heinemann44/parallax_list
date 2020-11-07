@@ -3,7 +3,7 @@ https://fidev.io/tickets-challenge-parallax/
 
 # parallax_app
 
-App em Flutter com uma lista em parallax
+App em Flutter com uma lista utilizando efeito de parallax
 
 ## Getting Started
 
